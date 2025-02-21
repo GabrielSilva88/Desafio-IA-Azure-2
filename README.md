@@ -1,11 +1,9 @@
-<<<<<<< HEAD
+
 ### Passo não realizado, não foi feita o Azure.
 
-=======
->>>>>>> 32e0d8b0cf93883460847f89052b7c76d4476edd
-# 🔍 Explorando um Índice de Pesquisa no Azure AI Search (UI)
+#  Explorando um Índice de Pesquisa no Azure AI Search (UI)
 
-## 🧠 O que é "Explore an Azure AI Search index (UI)"?  
+##  O que é "Explore an Azure AI Search index (UI)"?  
 O **Azure AI Search** é um serviço de pesquisa totalmente gerenciado da Microsoft, que oferece uma poderosa funcionalidade de pesquisa baseada em **inteligência artificial**.  
 A ferramenta permite **indexar, pesquisar e explorar** grandes volumes de dados estruturados e não estruturados, tornando-se essencial para aplicações que necessitam de busca eficiente e relevante.  
 
@@ -14,7 +12,7 @@ Isso possibilita ajustes rápidos e otimizados para garantir que os resultados a
 
 ---
 
-## 🛠️ Passo a Passo para Configuração da Pesquisa  
+##  Passo a Passo para Configuração da Pesquisa  
 
 ### 1️⃣ Acesse o Portal do Azure  
 1. Faça login no **[Portal do Azure](https://portal.azure.com/)**.  
@@ -42,7 +40,7 @@ Isso possibilita ajustes rápidos e otimizados para garantir que os resultados a
 
 ---
 
-## 📊 Insights e Possibilidades  
+##  Insights e Possibilidades  
 
 ✅ **Ferramentas que se beneficiam com essa solução:**  
 - Aplicações de **busca inteligente** para e-commerce, sites e sistemas internos.  
@@ -57,17 +55,17 @@ Isso possibilita ajustes rápidos e otimizados para garantir que os resultados a
 
 ---
 
-## 🖼️ Imagens do Processo  
+## Imagens do Processo  
 _Aqui você pode inserir capturas de tela mostrando as etapas do processo._  
 <<<<<<< HEAD
 =======
-# 🔍 Explorando um Índice de Pesquisa no Azure AI Search (UI)
+# Explorando um Índice de Pesquisa no Azure AI Search (UI)
 
 O **Azure AI Search** é um serviço poderoso que permite criar experiências de pesquisa inteligentes em diversos tipos de aplicações. A seguir, apresentamos um **passo a passo** para configurar e explorar um índice de pesquisa utilizando a interface do Azure AI Search.
 
 ---
 
-## 🛠️ Passo a Passo para Configuração da Pesquisa  
+##  Passo a Passo para Configuração da Pesquisa  
 
 ### 1️⃣ Acesse o Portal do Azure  
 1. Faça login no **[Portal do Azure](https://portal.azure.com/)**.  
@@ -95,7 +93,7 @@ O **Azure AI Search** é um serviço poderoso que permite criar experiências de
 
 ---
 
-## 📊 Insights e Possibilidades  
+## Insights e Possibilidades  
 
 ✅ **Ferramentas que se beneficiam com essa solução:**  
 - Aplicações de **busca inteligente** para e-commerce, sites e sistemas internos.  
@@ -108,11 +106,3 @@ O **Azure AI Search** é um serviço poderoso que permite criar experiências de
 - A capacidade de **indexação e recuperação rápida** melhora significativamente a experiência do usuário.  
 - A combinação de **cognição AI + pesquisa** permite criar soluções mais inteligentes e eficientes.  
 
----
-
-## 🖼️ Imagens do Processo  
-_Aqui você pode inserir capturas de tela mostrando as etapas do processo._  
-
-```markdown
-![Descrição da imagem](caminho/para/imagem.png)
->>>>>>> 32e0d8b0cf93883460847f89052b7c76d4476edd
